@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/HoloInJava/jipl">
-    <img src="https://user-images.githubusercontent.com/77677018/194720770-f5d419ab-e68a-46f1-a110-e44386ba8796.png"> 
+  <a href="https://github.com/HoloInJava/Code-in-Minecraft">
+    <img src="https://user-images.githubusercontent.com/77677018/194724048-9c0e9009-d62a-42c0-9056-0f8de61268c4.png" width="880"> 
   </a>
 </p>
 
@@ -10,6 +10,6 @@ The possibilities are **endless**, from explosive arrows to flying machines cows
 This plugin uses **[Jipl](https://github.com/HoloInJava/jipl)**, an open-source Java interpreted programming language.
 
 # Overview
-Using `/codebook`
+Using `/codebook` to get the magic book.
 
 # Examples
